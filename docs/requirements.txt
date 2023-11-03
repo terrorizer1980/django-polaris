@@ -21,7 +21,7 @@ django-sass-processor
 django-cors-headers
 django-environ
 django-model-utils
-django<3.0
+django<3.2.23
 djangorestframework
 libsass
 psycopg2-binary
