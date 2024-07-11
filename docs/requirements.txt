@@ -21,7 +21,7 @@ django-sass-processor
 django-cors-headers
 django-environ
 django-model-utils
-django<3.0
+django<4.2.14
 djangorestframework
 libsass
 psycopg2-binary
@@ -29,3 +29,4 @@ pyjwt
 stellar-sdk~=2.6.0
 toml
 whitenoise
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
