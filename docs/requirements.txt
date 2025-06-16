@@ -29,3 +29,4 @@ pyjwt
 stellar-sdk~=2.6.0
 toml
 whitenoise
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
